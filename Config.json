@@ -1,0 +1,23 @@
+{
+	"Creators":
+	[
+	"Humberto Majaji"
+	],
+        "Use_Legacy_Clip_Borders": false,
+	"Has_Global_Electricity": true,
+	"Is_Aurora_Borealis_Visible": true,
+
+	"Feedback": "https://discord.gg/A33jvFvrjP",
+    "Trains":
+    [
+        {
+            "VehicleID": 186,
+            "RoadIndex": 41
+        }
+    ],
+	"Asset":
+	{
+		"GUID": "0a9559d41ffd4b83b90a693413388b8e"
+	}
+
+}
