@@ -1,4 +1,4 @@
-"Available_Instance_ID" "168"
+"Available_Instance_ID" "169"
 "Items"
 [
 	{
@@ -232416,7 +232416,7 @@
 				"X" "-0.002052253"
 				"Y" "0.01634073"
 				"Z" "0.00170276"
-				"W" "0.999863"
+				"W" "0.9998629"
 			}
 			"Scale"
 			{
@@ -232466,7 +232466,7 @@
 				"X" "-0.002052253"
 				"Y" "0.01634073"
 				"Z" "0.00170276"
-				"W" "0.999863"
+				"W" "0.9998629"
 			}
 			"Scale"
 			{
@@ -232516,7 +232516,7 @@
 				"X" "-0.002052253"
 				"Y" "0.01634073"
 				"Z" "0.00170276"
-				"W" "0.999863"
+				"W" "0.9998629"
 			}
 			"Scale"
 			{
@@ -233871,6 +233871,37 @@
 			"Shape" "Box"
 			"No_Weapons" "true"
 			"No_Buildables" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "168"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-221.3963"
+				"Y" "18.15469"
+				"Z" "-220.7039"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "20.58811"
+				"Y" "4.540956"
+				"Z" "13.00233"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "SALTY"
 		}
 	}
 ]
