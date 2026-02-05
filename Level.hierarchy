@@ -1,4 +1,4 @@
-"Available_Instance_ID" "169"
+"Available_Instance_ID" "197"
 "Items"
 [
 	{
@@ -230247,6 +230247,40 @@
 						}
 					]
 				}
+				{
+					"Coord"
+					{
+						"X" "-4"
+						"Y" "3"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "498ca625072d443a876b2a4f11896018"
+						}
+						{
+							"GUID" "e25f0351181f4ad1a9c0dc31d2fedade"
+						}
+						{
+							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+					]
+				}
 			]
 		}
 	}
@@ -233605,34 +233639,6 @@
 		}
 	}
 	{
-		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
-		"Instance_ID" "152"
-		"Item"
-		{
-			"Position"
-			{
-				"X" "3258.215"
-				"Y" "10.41039"
-				"Z" "693.6252"
-			}
-			"Rotation"
-			{
-				"X" "0"
-				"Y" "0"
-				"Z" "0"
-				"W" "1"
-			}
-			"Scale"
-			{
-				"X" "1"
-				"Y" "1"
-				"Z" "1"
-			}
-			"LocationName" "admins"
-			"IsVisibleOnMap" "true"
-		}
-	}
-	{
 		"Type" "SDG.Framework.Devkit.TeleporterEntranceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
 		"Instance_ID" "153"
 		"Item"
@@ -233902,6 +233908,790 @@
 			"Is_Reflection_Visible" "false"
 			"Is_Sea_Level" "false"
 			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "169"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-3446.09"
+				"Y" "-20.26992"
+				"Z" "3313.206"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Zona de admins"
+			"IsVisibleOnMap" "false"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "170"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-494.7134"
+				"Y" "92.58878"
+				"Z" "535.8708"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Spawn"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "171"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-665.8972"
+				"Y" "53.91744"
+				"Z" "941.8686"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Ciudad Roguereana"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "172"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-135.5297"
+				"Y" "24.49"
+				"Z" "-124.4205"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Ciudad Principal"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "173"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "186.0403"
+				"Y" "52.1464"
+				"Z" "589.8668"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Comisaria"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "174"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "669.6985"
+				"Y" "87.24587"
+				"Z" "705.3107"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Bariloche"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "175"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "616.0624"
+				"Y" "24.86414"
+				"Z" "-437.0369"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Chaco"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "176"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "718.8132"
+				"Y" "24.16122"
+				"Z" "-944.6383"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Fuerte Apache"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "177"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-153.1729"
+				"Y" "31.46818"
+				"Z" "-736.791"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Zona de caza y tala"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "178"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-751.4248"
+				"Y" "33.86409"
+				"Z" "-774.272"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Fabricas"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "179"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-951.2102"
+				"Y" "35.45722"
+				"Z" "-400.4786"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Zona de mecanicos"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "180"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-699.541"
+				"Y" "22.01317"
+				"Z" "152.5989"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Mina"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "181"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-930.3276"
+				"Y" "55.3727"
+				"Z" "455.951"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Residencial"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "182"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-320.3217"
+				"Y" "22.43884"
+				"Z" "-1329.501"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Base ORO #1"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "183"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-1109.553"
+				"Y" "22.43884"
+				"Z" "-1336.39"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Base ORO #2"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "184"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-1776.474"
+				"Y" "22.43884"
+				"Z" "-1598.792"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Base ORO #3"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "185"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "186.0403"
+				"Y" "52.1464"
+				"Z" "589.8668"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Comisaria"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "186"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-1739.845"
+				"Y" "22.43884"
+				"Z" "-902.5321"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Base ORO #4"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "187"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-1492.87"
+				"Y" "22.43884"
+				"Z" "-482.7324"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Base ORO #5"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "188"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1294.236"
+				"Y" "22.00134"
+				"Z" "-1419.728"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Base Rogue #1"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "189"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1396.385"
+				"Y" "22.00134"
+				"Z" "-1759.16"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Base Rogue #2"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "190"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1137.412"
+				"Y" "22.00134"
+				"Z" "-1706.467"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Base Rogue #3"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "191"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "636.939"
+				"Y" "22.43884"
+				"Z" "-1826.5"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Base Rogue #4"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "192"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-118.8049"
+				"Y" "22.43884"
+				"Z" "-1696.197"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Base Rogue #5"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "193"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-741.7459"
+				"Y" "22.4165"
+				"Z" "-1724.319"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Base Rogue #6"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "194"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-1340.825"
+				"Y" "22.43884"
+				"Z" "-1728.92"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Base Rogue #7"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "195"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-1340.661"
+				"Y" "22.00134"
+				"Z" "11.78359"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Base Rogue #8"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "196"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-1757.365"
+				"Y" "22.00134"
+				"Z" "-21.38434"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Base Rogue #9"
+			"IsVisibleOnMap" "true"
 		}
 	}
 ]
