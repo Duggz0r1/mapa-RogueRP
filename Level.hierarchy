@@ -1,4 +1,4 @@
-"Available_Instance_ID" "197"
+"Available_Instance_ID" "210"
 "Items"
 [
 	{
@@ -233918,7 +233918,7 @@
 			"Position"
 			{
 				"X" "-3446.09"
-				"Y" "-20.26992"
+				"Y" "-19.72373"
 				"Z" "3313.206"
 			}
 			"Rotation"
@@ -234692,6 +234692,346 @@
 			}
 			"LocationName" "Base Rogue #9"
 			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.DeadzoneVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "198"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-3311.159"
+				"Y" "27.41021"
+				"Z" "3879.462"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "202.6699"
+				"Y" "99.84226"
+				"Z" "232.9116"
+			}
+			"Shape" "Box"
+			"Deadzone_Type" "DefaultRadiation"
+			"UnprotectedDamagePerSecond" "0"
+			"ProtectedDamagePerSecond" "0"
+			"UnprotectedRadiationPerSecond" "6.25"
+			"MaskFilterDamagePerSecond" "0.4"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "199"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-901.7369"
+				"Y" "30.93933"
+				"Z" "-588.6152"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Basurero"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "200"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "164.289"
+				"Y" "25.23597"
+				"Z" "1357.272"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Barco de carga"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "201"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1304.489"
+				"Y" "49.30287"
+				"Z" "-162.3651"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Base Petrolifera"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "202"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1521.733"
+				"Y" "25.97977"
+				"Z" "-409.5524"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Buque Militar"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "203"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-3854.01"
+				"Y" "110.4893"
+				"Z" "3238.212"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "pvp"
+			"IsVisibleOnMap" "false"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "204"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-3971.093"
+				"Y" "6.743247"
+				"Z" "3700.599"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Squid Games"
+			"IsVisibleOnMap" "false"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "205"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-3376.553"
+				"Y" "235.1476"
+				"Z" "3808.354"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Arena"
+			"IsVisibleOnMap" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.TeleporterEntranceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "206"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-3442.534"
+				"Y" "-25.7414"
+				"Z" "3314.854"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7071068"
+				"Z" "0"
+				"W" "0.7071068"
+			}
+			"Scale"
+			{
+				"X" "5.992767"
+				"Y" "6.057048"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"Pair_Id" "Admins"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.TeleporterExitVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "207"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-3392.535"
+				"Y" "4.451917"
+				"Z" "3303.719"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7071068"
+				"Z" "0"
+				"W" "-0.7071068"
+			}
+			"Scale"
+			{
+				"X" "5.239255"
+				"Y" "5.786301"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"Id" "Admins"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.TeleporterEntranceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "208"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-3391.595"
+				"Y" "-26.05065"
+				"Z" "3315.155"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7071068"
+				"Z" "0"
+				"W" "-0.7071068"
+			}
+			"Scale"
+			{
+				"X" "5.665366"
+				"Y" "5.438542"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"Pair_Id" "Spawn"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.TeleporterExitVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "209"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-497.2703"
+				"Y" "90.93602"
+				"Z" "530.9567"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"Id" "Spawn"
 		}
 	}
 ]
