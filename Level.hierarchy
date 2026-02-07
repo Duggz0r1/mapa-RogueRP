@@ -1,4 +1,4 @@
-"Available_Instance_ID" "224"
+"Available_Instance_ID" "225"
 "Items"
 [
 	{
@@ -232450,7 +232450,7 @@
 				"X" "-0.002052253"
 				"Y" "0.01634073"
 				"Z" "0.00170276"
-				"W" "0.9998629"
+				"W" "0.999863"
 			}
 			"Scale"
 			{
@@ -232500,7 +232500,7 @@
 				"X" "-0.002052253"
 				"Y" "0.01634073"
 				"Z" "0.00170276"
-				"W" "0.9998629"
+				"W" "0.999863"
 			}
 			"Scale"
 			{
@@ -232550,7 +232550,7 @@
 				"X" "-0.002052253"
 				"Y" "0.01634073"
 				"Z" "0.00170276"
-				"W" "0.9998629"
+				"W" "0.999863"
 			}
 			"Scale"
 			{
@@ -235029,61 +235029,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"ID" "B"
-		}
-	}
-	{
-		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
-		"Instance_ID" "212"
-		"Item"
-		{
-			"Position"
-			{
-				"X" "-523.0447"
-				"Y" "92.70002"
-				"Z" "568.4438"
-			}
-			"Rotation"
-			{
-				"X" "0"
-				"Y" "0.8769221"
-				"Z" "0"
-				"W" "0.4806325"
-			}
-			"Scale"
-			{
-				"X" "1"
-				"Y" "1"
-				"Z" "1"
-			}
-			"ID" "B"
-		}
-	}
-	{
-		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
-		"Instance_ID" "213"
-		"Item"
-		{
-			"Position"
-			{
-				"X" "-517.7507"
-				"Y" "92.70002"
-				"Z" "576.7388"
-			}
-			"Rotation"
-			{
-				"X" "0"
-				"Y" "0.8769221"
-				"Z" "0"
-				"W" "0.4806325"
-			}
-			"Scale"
-			{
-				"X" "1"
-				"Y" "1"
-				"Z" "1"
-			}
-			"ID" "A"
+			"ID" "Autos"
 		}
 	}
 	{
@@ -235115,60 +235061,6 @@
 	}
 	{
 		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
-		"Instance_ID" "215"
-		"Item"
-		{
-			"Position"
-			{
-				"X" "-520.4631"
-				"Y" "92.70002"
-				"Z" "572.4888"
-			}
-			"Rotation"
-			{
-				"X" "0"
-				"Y" "0.8769221"
-				"Z" "0"
-				"W" "0.4806325"
-			}
-			"Scale"
-			{
-				"X" "1"
-				"Y" "1"
-				"Z" "1"
-			}
-			"ID" "A"
-		}
-	}
-	{
-		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
-		"Instance_ID" "216"
-		"Item"
-		{
-			"Position"
-			{
-				"X" "-515.1259"
-				"Y" "92.70002"
-				"Z" "580.8516"
-			}
-			"Rotation"
-			{
-				"X" "0"
-				"Y" "0.8769221"
-				"Z" "0"
-				"W" "0.4806325"
-			}
-			"Scale"
-			{
-				"X" "1"
-				"Y" "1"
-				"Z" "1"
-			}
-			"ID" "A"
-		}
-	}
-	{
-		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
 		"Instance_ID" "217"
 		"Item"
 		{
@@ -235191,7 +235083,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"ID" ""
+			"ID" "Camion"
 		}
 	}
 	{
@@ -235218,7 +235110,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"ID" ""
+			"ID" "Remisero"
 		}
 	}
 	{
@@ -235235,7 +235127,7 @@
 			"Rotation"
 			{
 				"X" "0"
-				"Y" "-1"
+				"Y" "1"
 				"Z" "0"
 				"W" "-4.371139E-08"
 			}
@@ -235245,7 +235137,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"ID" ""
+			"ID" "Bomberocamion"
 		}
 	}
 	{
@@ -235262,9 +235154,9 @@
 			"Rotation"
 			{
 				"X" "0"
-				"Y" "-0.9238796"
+				"Y" "-0.9238795"
 				"Z" "0"
-				"W" "0.3826835"
+				"W" "0.3826834"
 			}
 			"Scale"
 			{
@@ -235299,7 +235191,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"ID" ""
+			"ID" "Lanchas"
 		}
 	}
 	{
@@ -235326,7 +235218,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"ID" ""
+			"ID" "Aviones"
 		}
 	}
 	{
@@ -235355,6 +235247,33 @@
 			}
 			"LocationName" "Aeropuerto"
 			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "224"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-1755.437"
+				"Y" "56.39542"
+				"Z" "569.0066"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.7071068"
+				"Z" "0"
+				"W" "0.7071068"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "Helis"
 		}
 	}
 ]
