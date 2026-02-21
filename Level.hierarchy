@@ -230222,7 +230222,7 @@
 					"Materials"
 					[
 						{
-							"GUID" "684f4b28200d4ceb9c5362d78d2c9619"
+							"GUID" "3d7717c2bc074401853b2fdacd9db1ba"
 						}
 						{
 							"GUID" "3d7717c2bc074401853b2fdacd9db1ba"
@@ -230237,7 +230237,7 @@
 							"GUID" "e52b20e26b7c47c89aa5a350938f8f42"
 						}
 						{
-							"GUID" "00000000000000000000000000000000"
+							"GUID" "d691f78202c84951a3a697f310abd115"
 						}
 						{
 							"GUID" "00000000000000000000000000000000"
@@ -230263,6 +230263,40 @@
 						}
 						{
 							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-2"
+						"Y" "2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "498ca625072d443a876b2a4f11896018"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
 						}
 						{
 							"GUID" "00000000000000000000000000000000"
@@ -232450,7 +232484,7 @@
 				"X" "-0.002052253"
 				"Y" "0.01634073"
 				"Z" "0.00170276"
-				"W" "0.999863"
+				"W" "0.9998629"
 			}
 			"Scale"
 			{
@@ -232500,7 +232534,7 @@
 				"X" "-0.002052253"
 				"Y" "0.01634073"
 				"Z" "0.00170276"
-				"W" "0.999863"
+				"W" "0.9998629"
 			}
 			"Scale"
 			{
@@ -232550,7 +232584,7 @@
 				"X" "-0.002052253"
 				"Y" "0.01634073"
 				"Z" "0.00170276"
-				"W" "0.999863"
+				"W" "0.9998629"
 			}
 			"Scale"
 			{
@@ -233822,37 +233856,6 @@
 		}
 	}
 	{
-		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
-		"Instance_ID" "168"
-		"Item"
-		{
-			"Position"
-			{
-				"X" "-221.3963"
-				"Y" "18.15469"
-				"Z" "-220.7039"
-			}
-			"Rotation"
-			{
-				"X" "0"
-				"Y" "0"
-				"Z" "0"
-				"W" "1"
-			}
-			"Scale"
-			{
-				"X" "20.58811"
-				"Y" "4.540956"
-				"Z" "13.00233"
-			}
-			"Shape" "Box"
-			"Is_Surface_Visible" "true"
-			"Is_Reflection_Visible" "false"
-			"Is_Sea_Level" "false"
-			"Water_Type" "SALTY"
-		}
-	}
-	{
 		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
 		"Instance_ID" "169"
 		"Item"
@@ -233916,7 +233919,7 @@
 			"Position"
 			{
 				"X" "-665.8972"
-				"Y" "53.91744"
+				"Y" "52.3479"
 				"Z" "941.8686"
 			}
 			"Rotation"
@@ -234129,34 +234132,6 @@
 				"Z" "1"
 			}
 			"LocationName" "Fabricas"
-			"IsVisibleOnMap" "true"
-		}
-	}
-	{
-		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
-		"Instance_ID" "179"
-		"Item"
-		{
-			"Position"
-			{
-				"X" "-951.2102"
-				"Y" "35.45722"
-				"Z" "-400.4786"
-			}
-			"Rotation"
-			{
-				"X" "0"
-				"Y" "0"
-				"Z" "0"
-				"W" "1"
-			}
-			"Scale"
-			{
-				"X" "1"
-				"Y" "1"
-				"Z" "1"
-			}
-			"LocationName" "Zona de mecanicos"
 			"IsVisibleOnMap" "true"
 		}
 	}
@@ -235012,9 +234987,9 @@
 		{
 			"Position"
 			{
-				"X" "-525.7143"
-				"Y" "92.70002"
-				"Z" "564.2607"
+				"X" "-523.817"
+				"Y" "102.4676"
+				"Z" "569.2688"
 			}
 			"Rotation"
 			{
@@ -235154,7 +235129,7 @@
 			"Rotation"
 			{
 				"X" "0"
-				"Y" "-0.9238795"
+				"Y" "-0.9238796"
 				"Z" "0"
 				"W" "0.3826834"
 			}
@@ -235165,115 +235140,6 @@
 				"Z" "1"
 			}
 			"ID" ""
-		}
-	}
-	{
-		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
-		"Instance_ID" "221"
-		"Item"
-		{
-			"Position"
-			{
-				"X" "49.3789"
-				"Y" "19.72551"
-				"Z" "-876.464"
-			}
-			"Rotation"
-			{
-				"X" "0"
-				"Y" "0.7071068"
-				"Z" "0"
-				"W" "0.7071068"
-			}
-			"Scale"
-			{
-				"X" "1"
-				"Y" "1"
-				"Z" "1"
-			}
-			"ID" "Lanchas"
-		}
-	}
-	{
-		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
-		"Instance_ID" "222"
-		"Item"
-		{
-			"Position"
-			{
-				"X" "-1773.395"
-				"Y" "56.39542"
-				"Z" "543.0568"
-			}
-			"Rotation"
-			{
-				"X" "0"
-				"Y" "0"
-				"Z" "0"
-				"W" "1"
-			}
-			"Scale"
-			{
-				"X" "1"
-				"Y" "1"
-				"Z" "1"
-			}
-			"ID" "Aviones"
-		}
-	}
-	{
-		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
-		"Instance_ID" "223"
-		"Item"
-		{
-			"Position"
-			{
-				"X" "-1767.685"
-				"Y" "52.16372"
-				"Z" "623.8936"
-			}
-			"Rotation"
-			{
-				"X" "0"
-				"Y" "0"
-				"Z" "0"
-				"W" "1"
-			}
-			"Scale"
-			{
-				"X" "1"
-				"Y" "1"
-				"Z" "1"
-			}
-			"LocationName" "Aeropuerto"
-			"IsVisibleOnMap" "true"
-		}
-	}
-	{
-		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
-		"Instance_ID" "224"
-		"Item"
-		{
-			"Position"
-			{
-				"X" "-1755.437"
-				"Y" "56.39542"
-				"Z" "569.0066"
-			}
-			"Rotation"
-			{
-				"X" "0"
-				"Y" "-0.7071068"
-				"Z" "0"
-				"W" "0.7071068"
-			}
-			"Scale"
-			{
-				"X" "1"
-				"Y" "1"
-				"Z" "1"
-			}
-			"ID" "Helis"
 		}
 	}
 ]
