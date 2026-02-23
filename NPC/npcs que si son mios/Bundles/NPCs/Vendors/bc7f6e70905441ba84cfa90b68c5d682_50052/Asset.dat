@@ -1,0 +1,21 @@
+﻿// Made in NPC Maker by BowieD
+GUID bc7f6e70905441ba84cfa90b68c5d682
+Type Vendor
+ID 50052
+Selling 4
+Selling_0_Type Vehicle
+Selling_0_Spawnpoint Bomberocamion
+Selling_0_ID 47228
+Selling_0_Cost 10000
+Selling_1_Type Vehicle
+Selling_1_Spawnpoint Bomberocamion
+Selling_1_ID 47180
+Selling_1_Cost 10000
+Selling_2_Type Vehicle
+Selling_2_Spawnpoint Bomberocamion
+Selling_2_ID 47181
+Selling_2_Cost 10000
+Selling_3_Type Vehicle
+Selling_3_Spawnpoint Bomberocamion
+Selling_3_ID 47216
+Selling_3_Cost 10000

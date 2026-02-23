@@ -1,0 +1,12 @@
+﻿// Made in NPC Maker by BowieD
+GUID 25c9f90008de4ec2b3afa877e01b8959
+ID 57000
+Type NPC
+Pants 13999
+Face 23
+Beard 0
+Hair 5
+Color_Skin #534736
+Color_Hair #AC6A39
+Pose Stand
+Dialogue 57001

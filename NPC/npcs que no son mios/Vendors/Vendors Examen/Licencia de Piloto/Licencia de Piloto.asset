@@ -1,0 +1,12 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.17-alpha.1
+"Buying" "0"
+"Selling" "1"
+"Selling_0_Type" "ITEM"
+"Selling_0_ID" "9985"
+"Selling_0_Cost" "40000"
+"Selling_0_Conditions" "0"
+"Selling_0_Rewards" "0"
+"GUID" "f418650fc80640e9804b0ba06835f7f4"
+"Type" "Vendor"
+"ID" "6551"
+"Asset_Bundle_Version" "5"

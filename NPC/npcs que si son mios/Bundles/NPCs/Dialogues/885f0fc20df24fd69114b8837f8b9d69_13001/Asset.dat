@@ -1,0 +1,8 @@
+﻿// Made in NPC Maker by BowieD
+GUID 885f0fc20df24fd69114b8837f8b9d69
+Type Dialogue
+ID 13001
+Messages 1
+Message_0_Pages 1
+Responses 2
+Response_0_Quest 13003

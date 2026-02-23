@@ -1,0 +1,15 @@
+﻿// Made in NPC Maker by BowieD
+GUID 8b682c3055c5494eada869ab31187a7d
+ID 9000
+Type NPC
+Shirt 17523
+Pants 17524
+Primary 490
+Equipped Primary
+Face 0
+Beard 0
+Hair 0
+Color_Skin #94764B
+Color_Hair #CDC08C
+Pose Stand
+Dialogue 9001

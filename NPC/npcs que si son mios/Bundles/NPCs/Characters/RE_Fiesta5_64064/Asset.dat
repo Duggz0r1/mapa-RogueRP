@@ -1,0 +1,12 @@
+﻿// Made in NPC Maker by BowieD
+GUID 9cd4dbbb1cd94c4e830967c0c355e7e7
+ID 64064
+Type NPC
+Pants 14210
+Face 30
+Beard 0
+Hair 7
+Color_Skin #BEA582
+Color_Hair #BF5347
+Pose Sit
+Dialogue 64065

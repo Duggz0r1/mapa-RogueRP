@@ -1,0 +1,13 @@
+﻿// Made in NPC Maker by BowieD
+GUID 805806150b6a4faa9ba7ee0ce25d6466
+Type Dialogue
+ID 39040
+Messages 1
+Message_0_Pages 1
+Responses 2
+Response_0_Vendor 39041
+Response_0_Conditions 1
+Response_0_Condition_0_Type Item
+Response_0_Condition_0_ID 60526
+Response_0_Condition_0_Amount 1
+

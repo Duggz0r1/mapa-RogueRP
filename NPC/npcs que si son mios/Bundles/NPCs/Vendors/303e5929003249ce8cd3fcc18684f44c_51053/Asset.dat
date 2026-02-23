@@ -1,0 +1,9 @@
+﻿// Made in NPC Maker by BowieD
+GUID 303e5929003249ce8cd3fcc18684f44c
+Type Vendor
+ID 51053
+Selling 1
+Selling_0_Type Vehicle
+Selling_0_Spawnpoint Basura
+Selling_0_ID 47353
+Selling_0_Cost 5000

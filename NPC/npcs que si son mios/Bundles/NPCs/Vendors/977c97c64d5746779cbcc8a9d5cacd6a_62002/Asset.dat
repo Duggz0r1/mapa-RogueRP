@@ -1,0 +1,7 @@
+﻿// Made in NPC Maker by BowieD
+GUID 977c97c64d5746779cbcc8a9d5cacd6a
+Type Vendor
+ID 62002
+Buying 1
+Buying_0_ID 42254
+Buying_0_Cost 3200

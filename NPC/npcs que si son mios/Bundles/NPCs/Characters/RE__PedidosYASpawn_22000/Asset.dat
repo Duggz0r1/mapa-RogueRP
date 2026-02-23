@@ -1,0 +1,14 @@
+﻿// Made in NPC Maker by BowieD
+GUID f16ba85293e84816be7852440d2e2104
+ID 22000
+Type NPC
+Shirt 32356
+Pants 32357
+Backpack 32358
+Face 0
+Beard 0
+Hair 0
+Color_Skin #BEA582
+Color_Hair #000000
+Pose Stand
+Dialogue 22001

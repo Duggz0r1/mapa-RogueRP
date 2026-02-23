@@ -1,0 +1,9 @@
+﻿// Made in NPC Maker by BowieD
+GUID a1ae83013dd44541b2f28afef87148a8
+Type Vendor
+ID 57059
+Selling 1
+Selling_0_Type Vehicle
+Selling_0_Spawnpoint Electricista
+Selling_0_ID 47477
+Selling_0_Cost 5000

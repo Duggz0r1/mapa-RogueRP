@@ -1,0 +1,12 @@
+﻿// Made in NPC Maker by BowieD
+GUID 9ea22e3a576040a4a5e598c19f66f06b
+ID 62062
+Type NPC
+Pants 14210
+Face 30
+Beard 0
+Hair 15
+Color_Skin #BEA582
+Color_Hair #BF5347
+Pose Under_Arrest
+Dialogue 62063

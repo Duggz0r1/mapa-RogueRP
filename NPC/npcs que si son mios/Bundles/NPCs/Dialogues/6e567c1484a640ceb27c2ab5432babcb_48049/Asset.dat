@@ -1,0 +1,14 @@
+﻿// Made in NPC Maker by BowieD
+GUID 6e567c1484a640ceb27c2ab5432babcb
+Type Dialogue
+ID 48049
+Messages 1
+Message_0_Pages 1
+Responses 2
+Response_0_Vendor 48050
+Response_0_Conditions 1
+Response_0_Condition_0_Type Item
+Response_0_Condition_0_ID 60525
+Response_0_Condition_0_Amount 1
+Response_0_Condition_0_Reset 
+

@@ -1,0 +1,13 @@
+﻿// Made in NPC Maker by BowieD
+GUID 8cf54897e17245eab92ebf17bb5ac9a5
+ID 7070
+Type NPC
+Shirt 17006
+Pants 17038
+Face 6
+Beard 9
+Hair 21
+Color_Skin #57452F
+Color_Hair #94764B
+Pose Stand
+Dialogue 7071

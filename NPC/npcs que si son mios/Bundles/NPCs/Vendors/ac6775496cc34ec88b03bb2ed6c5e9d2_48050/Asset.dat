@@ -1,0 +1,13 @@
+﻿// Made in NPC Maker by BowieD
+GUID ac6775496cc34ec88b03bb2ed6c5e9d2
+Type Vendor
+ID 48050
+Selling 2
+Selling_0_Type Vehicle
+Selling_0_Spawnpoint Remisero
+Selling_0_ID 47372
+Selling_0_Cost 1000
+Selling_1_Type Vehicle
+Selling_1_Spawnpoint Remisero
+Selling_1_ID 11664
+Selling_1_Cost 1500000

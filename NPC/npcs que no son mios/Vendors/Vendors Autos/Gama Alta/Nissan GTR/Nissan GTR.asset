@@ -1,0 +1,13 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.17-alpha.1
+"Buying" "0"
+"Selling" "1"
+"Selling_0_Type" "VEHICLE"
+"Selling_0_ID" "6005"
+"Selling_0_Cost" "5000000"
+"Selling_0_Conditions" "0"
+"Selling_0_Rewards" "0"
+"Selling_0_Spawnpoint" "autoss"
+"GUID" "25632c3caafc4d40addad623e0e4c84d"
+"Type" "Vendor"
+"ID" "6980"
+"Asset_Bundle_Version" "5"

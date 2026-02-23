@@ -1,0 +1,14 @@
+﻿// Made in NPC Maker by BowieD
+GUID d28c198d943a48d3a935db02e0139a7b
+Type Quest
+ID 16062
+Conditions 1
+Condition_0_Type Item
+Condition_0_ID 1178
+Condition_0_Amount 1
+Condition_0_Reset 
+
+Rewards 1
+Reward_0_Type Experience
+Reward_0_Value 50000
+

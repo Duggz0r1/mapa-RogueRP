@@ -1,0 +1,12 @@
+﻿// Made in NPC Maker by BowieD
+GUID 0d2b84112ad540f0a2800014b8ba6b2a
+ID 53053
+Type NPC
+Pants 14210
+Face 30
+Beard 0
+Hair 14
+Color_Skin #BEA582
+Color_Hair #8E8CCD
+Pose Surrender
+Dialogue 53054
